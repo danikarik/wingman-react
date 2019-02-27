@@ -1,3 +1,4 @@
+/* eslint-disable */
 import $ from 'jquery'
 import Alert from './alert'
 import Button from './button'
